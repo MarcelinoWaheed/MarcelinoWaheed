@@ -1,18 +1,17 @@
-
+T
 
 <h3 align="center">
-  Welcome to Ahmed Esmat's profile!
+  Welcome to Marcelino Waheed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 
 
-👋 Hi, I’m Ahmed Esmat, a software engineering student with a passion for algorithms, data structures, and problem-solving. Always eager to learn and tackle new challenges. Let’s build something great together! 🚀
+👋 Hi, I’m Marcelino Waheed, a software engineering student with a passion for algorithms, data structures, and problem-solving. Always eager to learn and tackle new challenges. Let’s build something great together! 🚀
 
 ## 🔧 Skills
 
-- Languages: C++ , C#, Java
-- DataBase: MySQL
+- Languages: C++ , C#, Python,Go
 - Technical: Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 
