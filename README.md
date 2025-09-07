@@ -22,7 +22,11 @@ T
 - Passionate about problem-solving and eager to learn new technologies that push the boundaries of software development.
 
 ## 📫 Let's Connect
-<a href="https://www.linkedin.com/in/ahmed-esmat-284a9524a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ZEUSxUPP?mibextid=LQQJ4d" target="_blank"><img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcelino-waheed" target="_blank">
+  <img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/ZEUSxUPP?mibextid=LQQJ4d" target="_blank">
+  <img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
 
 Feel free to explore my repositories, provide feedback, or reach out for collaboration and discussions!
