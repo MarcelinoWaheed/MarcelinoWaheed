@@ -1,4 +1,3 @@
-T
 
 <h3 align="center">
   Welcome to Marcelino Waheed's profile!
