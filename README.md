@@ -16,7 +16,6 @@
 
 ## 🌱 Learning & Interests
 
-- Currently diving deep into software testing methodologies and tools, focusing on building robust and reliable software.
 - Exploring code optimization techniques to enhance performance and efficiency.
 - Passionate about problem-solving and eager to learn new technologies that push the boundaries of software development.
 
