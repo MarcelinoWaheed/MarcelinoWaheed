@@ -25,7 +25,7 @@ T
 <a href="http://www.linkedin.com/in/marcelino-waheed-1415b4260" target="_blank">
   <img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[https://www.facebook.com/ZEUSxUPP?mibextid=LQQJ4d](https://www.facebook.com/share/1Ni5oQ6jbn/)" target="_blank">
+<a href="https://www.facebook.com/share/1Ni5oQ6jbn/" target="_blank">
   <img src="https://img.shields.io/badge/-Marcelino%20Waheed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 
